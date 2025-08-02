@@ -1,7 +1,7 @@
 const FramerAppDisplay = () => {
   return (
     <iframe
-      src="https://gray-subtasks-794197.framer.app"
+      src="https://humble-connection-496001.framer.app"
       className="w-full h-screen border-0"
       title="Framer App"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
