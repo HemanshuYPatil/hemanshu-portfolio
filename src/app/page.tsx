@@ -1,7 +1,7 @@
 const FramerAppDisplay = () => {
   return (
     <iframe
-      src="https://humble-connection-496001.framer.app"
+      src="https://lucky-shower-410889.framer.app"
       className="w-full h-screen border-0"
       title=""
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
